@@ -1,5 +1,7 @@
 
 #!/bin/bash
+# migration has to be downloaded firts | this script is under construction lol 
+
 cd /tmp
 
 rm -r *  && rm .* 
